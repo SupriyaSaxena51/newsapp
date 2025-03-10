@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+A News App is a digital platform designed to provide users with up-to-date information on current events, trends, and stories from various categories such as sports, health, technology, and more.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
